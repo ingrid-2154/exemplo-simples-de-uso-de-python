@@ -1,0 +1,28 @@
+def funcao_maior(x, y):
+    return (x > y)
+
+    def funcao_maior_igual(x, y):
+      return (x>=y)
+    
+    def funcao_menor(x, y):
+      return(x<y) 
+
+    def funcao_menor_igual(x, y):
+        return (x <= y)
+
+
+    def funcao_diferente(x, y):
+        return (x != y)
+
+
+        def funcao_igual(x, y):
+            return (x == y)
+
+            print(funcao_maior)
+            print(funcao_maior_igual)
+            print(funcao_menor)
+            print(funcao_menor_igual)
+            print(funcao_diferente)
+            print(funcao_diferente)
+            print(funcao_igual)
+            print(funcao_igual)
