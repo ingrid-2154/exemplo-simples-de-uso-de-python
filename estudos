@@ -26,3 +26,18 @@ def funcao_maior(x, y):
             print(funcao_diferente)
             print(funcao_igual)
             print(funcao_igual)
+            print("Operadores lógicos")
+x=10
+print(x<8 and x!=5)
+print(x ==10 or x!=10)
+print(False and True)
+print (x > 9 or x == 10)
+print (False or False)
+print (True or True)
+print (True and True)
+print (x> 10 and x <9)
+print (False or True)
+print (not(x>10 and x <9))
+print (False and False)
+
+#Sobre os operadores lógico: and retorna true todas as alternativas. or retorna true se ao menos uma condição for verdadeira. not inverte o reultado, retorna false se for true e vice versa
